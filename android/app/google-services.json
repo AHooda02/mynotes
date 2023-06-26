@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86026316225",
+    "project_id": "mynotes-ah",
+    "storage_bucket": "mynotes-ah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86026316225:android:0ec96cb8228198b7d26740",
+        "android_client_info": {
+          "package_name": "com.example.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCw1GrnE9pIsxhNbPM06zKrgBTPBk4SjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
